@@ -1,7 +1,8 @@
 {
-    "orgName": "Demo Company",
-    "edition": "Developer",
+    "orgName": "AgentOne Base",
+    "edition": "Enterprise",
+    "features": ["PersonAccounts"],
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
+        "enabled": ["S1DesktopEnabled", "ChatterEnabled"]
     }
 }
