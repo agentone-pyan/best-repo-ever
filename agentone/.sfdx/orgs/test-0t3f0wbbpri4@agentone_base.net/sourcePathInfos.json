@@ -1,0 +1,426 @@
+[
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511289018792,
+            "changeTime": 1511289018792,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511289018792,
+            "changeTime": 1511289018792,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511378463738,
+            "changeTime": 1511378463738,
+            "contentHash": "563600ee5d11f02a4a3f6d7fea31d462ca32964b"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511289018792,
+            "changeTime": 1511289018792,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511296859373,
+            "changeTime": 1511296859373,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\globalValueSets",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\globalValueSets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511377649528,
+            "changeTime": 1511377649528,
+            "contentHash": "5af721bc7d86450d86888a39287811e536844e88",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511378463713,
+            "changeTime": 1511378463713,
+            "contentHash": "4f56c5f50a7362cbb0471da27a806a6654dbbc66"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511377279728,
+            "changeTime": 1511377279728,
+            "contentHash": "ed20baa194347af7b9c0984e5903557387f79f80",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511377279727,
+            "changeTime": 1511377279727,
+            "contentHash": "9e3035980db44b403145254c133776b371c9fb6c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\listViews",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511377279728,
+            "changeTime": 1511377279728,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Sector__c",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Sector__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511377418771,
+            "changeTime": 1511377418771,
+            "contentHash": "b48d4d96bd0f91490cc4e5759619dd65f8c148a9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Sector__c\\fields",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Sector__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511377418769,
+            "changeTime": 1511377418769,
+            "contentHash": "f80814692f0231553d9c649872574210d0b98ca6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Sector__c\\listViews",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Sector__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511377418777,
+            "changeTime": 1511377418777,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\globalValueSets\\Asset_Class.globalValueSet-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\globalValueSets\\Asset_Class.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 1180,
+            "modifiedTime": 1501530702627,
+            "changeTime": 1511377652221,
+            "contentHash": "2d1e906fc1e9ec34b52778ec57bf3b8f245fc6f1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\Abbreviation__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\Abbreviation__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 379,
+            "modifiedTime": 1511377279678,
+            "changeTime": 1511377279852,
+            "contentHash": "6125892926a19778e39c612c8fa16f3cdb5612f9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\Asset_Class__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\Asset_Class__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 451,
+            "modifiedTime": 1511377279685,
+            "changeTime": 1511377279859,
+            "contentHash": "96c640db9474f0447c9994154f0dd3fd1994db78",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\Five_Year_Return__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\Five_Year_Return__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 390,
+            "modifiedTime": 1511377279706,
+            "changeTime": 1511377279865,
+            "contentHash": "72e110d251f34ad9cce8ee8bdd2e57384978f6e2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\One_Year_Return__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\One_Year_Return__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 388,
+            "modifiedTime": 1511377279707,
+            "changeTime": 1511377279869,
+            "contentHash": "bdf614d607981d94acb8e88b5e647b92b920903a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\Rating__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\Rating__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1511377279720,
+            "changeTime": 1511377279874,
+            "contentHash": "8f07ce06c5a0c1449d0dcf09b519a356b4ca9a7a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\Sector__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\Sector__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 603,
+            "modifiedTime": 1511377279726,
+            "changeTime": 1511377279878,
+            "contentHash": "5f9e0b69c5ff000cc9b20053257b3087344da843",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\Two_Year_Return__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\Two_Year_Return__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 388,
+            "modifiedTime": 1511377279727,
+            "changeTime": 1511377279883,
+            "contentHash": "be7843618b6e36bd2b5788186c75c526f771dd9c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\YTD_Return__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\fields\\YTD_Return__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 378,
+            "modifiedTime": 1511377279728,
+            "changeTime": 1511377279888,
+            "contentHash": "13fcfc2078610414802ed6ea38fc6d5874c1f566",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\Fund__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\Fund__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2205,
+            "modifiedTime": 1511377279671,
+            "changeTime": 1511377279832,
+            "contentHash": "d9717533418ffbe7f76fadde2da7242582529521",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Fund__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1511377279729,
+            "changeTime": 1511377279892,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Sector__c\\fields\\Sector_Id__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Sector__c\\fields\\Sector_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 401,
+            "modifiedTime": 1501530702696,
+            "changeTime": 1511377421464,
+            "contentHash": "e71edab94595cd1b189e929efd85aaa834892b11",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Sector__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Sector__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1501530702697,
+            "changeTime": 1511377421475,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Sector__c\\Sector__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Sector__c\\Sector__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2131,
+            "modifiedTime": 1501530702695,
+            "changeTime": 1511377421460,
+            "contentHash": "eb15a270261fd7cffeee1561a9f2f7eb4ba50ff1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Account\\recordTypes\\Business_Account.recordType-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Account\\recordTypes\\Business_Account.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7565,
+            "modifiedTime": 1511378463726,
+            "changeTime": 1511378463726,
+            "contentHash": "f038c7aad91bb22cc01e9338139c1fd8783430a6"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\permissionsets\\Simple_Perm.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\permissionsets\\Simple_Perm.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2170,
+            "modifiedTime": 1511378463740,
+            "changeTime": 1511378463740,
+            "contentHash": "b0718392cdb52615203bd89a9d3e6bcff94717b4"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Account\\recordTypes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Account\\recordTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511378463726,
+            "changeTime": 1511378463726,
+            "contentHash": "f4f269d764636a49cec50b4574090ae2589d5a3b"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511378463713,
+            "changeTime": 1511378463713,
+            "contentHash": "01e62e8f969d1224b9785ce9509e9b90b753394f"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\workspace\\salesforce\\sfdx\\agentone1\\agentone\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511378463739,
+            "changeTime": 1511378463739,
+            "contentHash": "4bb27820c2abb580a5282ae3f1ac385ce5e7d95e"
+        }
+    ]
+]
